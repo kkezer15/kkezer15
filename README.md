@@ -1,7 +1,6 @@
-# 👋 Hi, I'm Kobe Kezer (kkezer15)
+# Hello, I'm Kobe Kezer
 
-Welcome to my GitHub!  
-I'm a **Mixed-Signal DV Engineer** with over a decade of ASIC lab and simulation experience, specializing in **mixed-signal design verification**.
+I'm a **Mixed-Signal DV Engineer** with over a decade of ASIC lab and simulation experience, specializing in **mixed-signal design verification**. Primarily focused on verification & validation efforts for magnetic sensing ICs.
 
 ---
 
@@ -13,7 +12,7 @@ I'm a **Mixed-Signal DV Engineer** with over a decade of ASIC lab and simulation
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - 🔬 Passionate about building verification environments for mixed-signal designs
 - 💡 Currently building a portfolio repository to showcase digital, analog, VAMS, SystemVerilog, and C models
